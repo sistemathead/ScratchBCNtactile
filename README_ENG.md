@@ -25,7 +25,7 @@ This project has been originaly developed by ST - 'Sistema THEAD, Digital Litera
 
 Full list of collaborators (updated june 2022):
 - Tactilens (Terrassa): Jepi Humet
-- Scratch Team (USA): Tracy, Jacy
+- Scratch Team (USA): Tracy Tang, Jacy Edelman
 - Ateneu de Fabricació Digital Les Corts (Barcelona): Mari Cazorla, 
 - ONCE Resources Center from Barcelona: Maria Teresa Corbella
 - and much more...
