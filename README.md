@@ -18,6 +18,9 @@
 First version published on 2022.
 
 
+
+-*_*_*_*_*_*_*_*_*_*_*_*_*_*_*-
+
 This project has been originaly developed by ST - 'Sistema THEAD, Digital Literacy to Change the World' a non-profit educational organization from Barcelona - Spain, and with the contributions of a lot of generous and wonderful people like:
 
 Full list of collaborators (updated june 2022):
