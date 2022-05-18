@@ -24,12 +24,12 @@ First version published on 2022.
 This project has been originaly developed by ST - 'Sistema THEAD, Digital Literacy to Change the World' a non-profit educational organization from Barcelona - Spain, and with the contributions of a lot of generous and wonderful people like:
 
 Full list of collaborators (updated june 2022):
-- ONCE Resources Center from Barcelona: Maria Teresa Corbera
 - Tactilens (Terrassa): Jepi Humet
 - Scratch Team (USA): Tracy, Jacy
 - Ateneu de Fabricació Digital Les Corts (Barcelona): Mari Cazorla, 
+- ONCE Resources Center from Barcelona: Maria Teresa Corbella
 - and much more...
-
+(this list is going to be updated with new contributors)
 
 This project and all the materials shared by the community are licensed under a "Creative Commons BY-NC 4.0 Attribution - NonComercial - ShareAlike License". 
 https://creativecommons.org/licenses/by-nc/4.0/
