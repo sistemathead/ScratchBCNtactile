@@ -25,7 +25,7 @@ Aquest projecte ha estat desenvolupat originalment per ST - 'Sistema THEAD, Alfa
 
 Llista completa de col·laboradors (actualitzada el juny de 2022):
 - Tàctilens (Terrassa): Jepi Humet
-- Scratch Team (EUA): Tracy, Jacy
+- Scratch Team (EUA): Tracy Tang, Jacy Edelman
 - Ateneu de Fabricació Digital Les Corts (Barcelona): Mari Cazorla,
 - Centre de Recursos ONCE de Barcelona: Maria Teresa Corbella
 - i molts més...
