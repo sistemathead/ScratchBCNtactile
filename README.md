@@ -1,7 +1,7 @@
 # Languages / Idiomes / Idiomas
-ENG: This project is currently documented in English: read README.md
-CAT: Actualment aquest projecte està documentat en català: llegeix README_CAT.md
-ESP: Actualmente este proyecto está documentado en español: lee README_ES.md
+ ENG: This project is currently documented in English: read README.md
+ CAT: Actualment aquest projecte està documentat en català: llegeix README_CAT.md
+ ESP: Actualmente este proyecto está documentado en español: lee README_ES.md
 
 More...? Submit a request to translate it into more languages.
 
