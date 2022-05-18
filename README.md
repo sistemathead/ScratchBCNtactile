@@ -1,3 +1,10 @@
+# Languages / Idiomes / Idiomas
+ENG: This project is currently documented in English: read README.md
+CAT: Actualment aquest projecte està documentat en català: llegeix README_CAT.md
+ESP: Actualmente este proyecto está documentado en español: lee README_ES.md
+
+More...? Submit a request to translate it into more languages.
+
 # Scratch Tactile Blocks 
 - 👋 Hi, this is Scratch Tactile Blocs repo !
 - 👀 Our aim is to make creative computing accessible for all. ¿Do you join us?
