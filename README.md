@@ -5,7 +5,7 @@
 
 More...? Submit a request to translate it into more languages.
 
-# Scratch Tactile Blocks 
+# Scratch BCN Tactile Blocks 
 - 👋 Hi, this is Scratch Tactile Blocs repo !
 - 👀 Our aim is to make creative computing accessible for all. ¿Do you join us?
 - 🌱 We are a team of teacher training and educational materials creating. We love STEAM, social robotics and learning 21st century skills for making a better world promoting the UN Global Goals (SDGs). No leave anyone behind.
